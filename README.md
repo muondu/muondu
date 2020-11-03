@@ -3,7 +3,7 @@
 I am Munene Muondu, people call me Nesh, currently learning python. I am a programmer and a web diseigner I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
 [![Youtube Badge](https://img.shields.io/badge/-koolkanna-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/NeroNesh)](https://www.youtube.com/channel/UCz2M7dLDdCy7m22RmI8ae_Q)
-[![Medium Badge](https://img.shields.io/badge/-@aemmadi-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@munenemuondu/)](https://medium.com/@munenemuondu)
+[![Medium Badge](https://img.shields.io/badge/-@munenemuondu-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@munenemuondu/)](https://medium.com/@munenemuondu)
 
 ## ⚡ Technologies
 
