@@ -24,4 +24,4 @@ I am Munene Muondu, people call me Nesh, currently learning python. I am a progr
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=muondu.muondu)
 
 This is my discord for any queries. You can dm me.
-![Discord](NeroNesh#9213)
+[![Discord](NeroNesh#9213)
