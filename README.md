@@ -22,3 +22,6 @@ I am Munene Muondu, people call me Nesh, currently learning python. I am a progr
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muondu&hide=TeX&layout=compact)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=muondu.muondu)
+
+This is my discord for any queries. You can dm me.
+![Discord](NeroNesh#9213)
